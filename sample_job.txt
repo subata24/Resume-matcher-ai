@@ -1,0 +1,14 @@
+We are seeking a Junior Data Analyst to join our team.
+
+Responsibilities:
+- Analyze large datasets using Python and SQL
+- Build reports and dashboards using Power BI
+- Clean and preprocess raw data
+- Collaborate with data engineers and business teams
+
+Requirements:
+- Proficiency in Python and pandas
+- Understanding of statistics and data visualization
+- Experience with SQL
+- Strong communication and teamwork skills
+- Bonus: Experience with Excel or Google Sheets
