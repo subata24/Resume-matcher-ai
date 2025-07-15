@@ -35,9 +35,6 @@ cd Resume-matcher-ai
 pip install -r requirements.txt
 python app.py
 
-# 📄 Resume Matcher AI
-
-🚀 [Live Demo](https://huggingface.co/spaces/Subata24/Resume-matcher-ai)
 
 ## Features
 
